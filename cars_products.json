@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Tesla Model S",
+    "price": 89999,
+    "description": "Electric luxury sedan with autopilot features.",
+    "category": "cars",
+    "image": "https://example.com/images/tesla-model-s.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Ford Mustang GT",
+    "price": 55999,
+    "description": "Classic American muscle car with powerful V8 engine.",
+    "category": "cars",
+    "image": "https://example.com/images/ford-mustang-gt.jpg"
+  },
+  {
+    "id": 3,
+    "title": "BMW X5",
+    "price": 61999,
+    "description": "Mid-size luxury SUV with sporty performance.",
+    "category": "cars",
+    "image": "https://example.com/images/bmw-x5.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Audi A4",
+    "price": 39999,
+    "description": "Compact executive sedan with advanced tech features.",
+    "category": "cars",
+    "image": "https://example.com/images/audi-a4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Honda Civic",
+    "price": 22999,
+    "description": "Reliable compact car with excellent fuel efficiency.",
+    "category": "cars",
+    "image": "https://example.com/images/honda-civic.jpg"
+  }
+]
